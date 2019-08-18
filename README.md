@@ -7,3 +7,5 @@
 ```html
 <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash
 ```
+Reference-style: 
+![alt text][[logo](https://github.com/sergius-la/icon_links/blob/master/img/bash.png)]

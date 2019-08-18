@@ -4,7 +4,7 @@
 
 __GitNote's link__
 ```hhtml
-[Bash](https://github.com/sergius-la/Cheatsheet/blob/master/bash/README.md)
+[`Bash`](https://github.com/sergius-la/Cheatsheet/blob/master/bash/README.md)
 ```
 
 # <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash

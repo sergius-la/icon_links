@@ -1,9 +1,9 @@
-# Icon Links
+# Bash
 
-## Bash
+<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="96" height="96">
 
-<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="64" height="64">
+# <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash
 
 ```html
-<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash
+# <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash
 ``` 

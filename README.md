@@ -1,11 +1,9 @@
 # Icon Links
 
-[logo]: https://github.com/sergius-la/icon_links/blob/master/img/bash.png "Logo Title Text 2"
+## Bash
 
-<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28">
+<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="64" height="64">
 
 ```html
 <img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28"> Bash
 ``` 
-
-[Bash]<img src="https://github.com/sergius-la/icon_links/blob/master/img/bash.png" width="28" height="28">
